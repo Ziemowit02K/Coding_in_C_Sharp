@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\obj\Debug\net6.0\AddingLastLetterAtFrontAndBack.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\obj\Debug\net6.0\AddingLastLetterAtFrontAndBack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\obj\Debug\net6.0\AddingLastLetterAtFrontAndBack.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\obj\Debug\net6.0\AddingLastLetterAtFrontAndBack.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\obj\Debug\net6.0\AddingLastLetterAtFrontAndBack.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\bin\Debug\net6.0\AddingLastLetterAtFrontAndBack.exe
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\bin\Debug\net6.0\AddingLastLetterAtFrontAndBack.deps.json
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\bin\Debug\net6.0\AddingLastLetterAtFrontAndBack.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\bin\Debug\net6.0\AddingLastLetterAtFrontAndBack.dll
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\bin\Debug\net6.0\AddingLastLetterAtFrontAndBack.pdb
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\obj\Debug\net6.0\AddingLastLetterAtFrontAndBack.dll
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\obj\Debug\net6.0\refint\AddingLastLetterAtFrontAndBack.dll
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\obj\Debug\net6.0\AddingLastLetterAtFrontAndBack.pdb
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\obj\Debug\net6.0\AddingLastLetterAtFrontAndBack.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\AddingLastLetterAtFrontAndBack\AddingLastLetterAtFrontAndBack\obj\Debug\net6.0\ref\AddingLastLetterAtFrontAndBack.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\bin\Debug\net6.0\CheckingIntRange.exe
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\bin\Debug\net6.0\CheckingIntRange.deps.json
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\bin\Debug\net6.0\CheckingIntRange.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\bin\Debug\net6.0\CheckingIntRange.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\bin\Debug\net6.0\CheckingIntRange.pdb
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\obj\Debug\net6.0\CheckingIntRange.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\obj\Debug\net6.0\CheckingIntRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\obj\Debug\net6.0\CheckingIntRange.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\obj\Debug\net6.0\CheckingIntRange.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\obj\Debug\net6.0\CheckingIntRange.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\obj\Debug\net6.0\CheckingIntRange.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\obj\Debug\net6.0\refint\CheckingIntRange.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\obj\Debug\net6.0\CheckingIntRange.pdb
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\obj\Debug\net6.0\CheckingIntRange.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingIntRange\CheckingIntRange\obj\Debug\net6.0\ref\CheckingIntRange.dll

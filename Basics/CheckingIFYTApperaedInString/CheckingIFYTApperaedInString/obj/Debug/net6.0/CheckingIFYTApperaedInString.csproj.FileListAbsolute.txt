@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\bin\Debug\net6.0\CheckingIFYTApperaedInString.exe
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\bin\Debug\net6.0\CheckingIFYTApperaedInString.deps.json
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\bin\Debug\net6.0\CheckingIFYTApperaedInString.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\bin\Debug\net6.0\CheckingIFYTApperaedInString.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\bin\Debug\net6.0\CheckingIFYTApperaedInString.pdb
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\obj\Debug\net6.0\CheckingIFYTApperaedInString.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\obj\Debug\net6.0\CheckingIFYTApperaedInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\obj\Debug\net6.0\CheckingIFYTApperaedInString.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\obj\Debug\net6.0\CheckingIFYTApperaedInString.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\obj\Debug\net6.0\CheckingIFYTApperaedInString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\obj\Debug\net6.0\CheckingIFYTApperaedInString.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\obj\Debug\net6.0\refint\CheckingIFYTApperaedInString.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\obj\Debug\net6.0\CheckingIFYTApperaedInString.pdb
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\obj\Debug\net6.0\CheckingIFYTApperaedInString.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingIFYTApperaedInString\CheckingIFYTApperaedInString\obj\Debug\net6.0\ref\CheckingIFYTApperaedInString.dll
