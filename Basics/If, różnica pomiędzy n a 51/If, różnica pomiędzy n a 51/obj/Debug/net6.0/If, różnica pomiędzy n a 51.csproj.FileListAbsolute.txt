@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\bin\Debug\net6.0\If, różnica pomiędzy n a 51.exe
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\bin\Debug\net6.0\If, różnica pomiędzy n a 51.deps.json
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\bin\Debug\net6.0\If, różnica pomiędzy n a 51.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\bin\Debug\net6.0\If, różnica pomiędzy n a 51.dll
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\bin\Debug\net6.0\If, różnica pomiędzy n a 51.pdb
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\obj\Debug\net6.0\If, różnica pomiędzy n a 51.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\obj\Debug\net6.0\If, różnica pomiędzy n a 51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\obj\Debug\net6.0\If, różnica pomiędzy n a 51.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\obj\Debug\net6.0\If, różnica pomiędzy n a 51.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\obj\Debug\net6.0\If, różnica pomiędzy n a 51.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\obj\Debug\net6.0\If, różnica pomiędzy n a 51.dll
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\obj\Debug\net6.0\refint\If, różnica pomiędzy n a 51.dll
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\obj\Debug\net6.0\If, różnica pomiędzy n a 51.pdb
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\obj\Debug\net6.0\If, różnica pomiędzy n a 51.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\If, różnica pomiędzy n a 51\If, różnica pomiędzy n a 51\obj\Debug\net6.0\ref\If, różnica pomiędzy n a 51.dll

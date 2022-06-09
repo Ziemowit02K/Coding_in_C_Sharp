@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\bin\Debug\net6.0\HelloWorld + Name.exe
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\bin\Debug\net6.0\HelloWorld + Name.deps.json
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\bin\Debug\net6.0\HelloWorld + Name.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\bin\Debug\net6.0\HelloWorld + Name.dll
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\bin\Debug\net6.0\HelloWorld + Name.pdb
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\obj\Debug\net6.0\HelloWorld + Name.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\obj\Debug\net6.0\HelloWorld + Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\obj\Debug\net6.0\HelloWorld + Name.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\obj\Debug\net6.0\HelloWorld + Name.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\obj\Debug\net6.0\HelloWorld + Name.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\obj\Debug\net6.0\HelloWorld + Name.dll
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\obj\Debug\net6.0\refint\HelloWorld + Name.dll
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\obj\Debug\net6.0\HelloWorld + Name.pdb
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\obj\Debug\net6.0\HelloWorld + Name.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\HelloWorld + Name\HelloWorld + Name\obj\Debug\net6.0\ref\HelloWorld + Name.dll
