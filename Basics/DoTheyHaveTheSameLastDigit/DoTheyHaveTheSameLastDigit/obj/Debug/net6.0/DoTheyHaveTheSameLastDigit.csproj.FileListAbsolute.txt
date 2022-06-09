@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\obj\Debug\net6.0\DoTheyHaveTheSameLastDigit.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\obj\Debug\net6.0\DoTheyHaveTheSameLastDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\obj\Debug\net6.0\DoTheyHaveTheSameLastDigit.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\obj\Debug\net6.0\DoTheyHaveTheSameLastDigit.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\obj\Debug\net6.0\DoTheyHaveTheSameLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\bin\Debug\net6.0\DoTheyHaveTheSameLastDigit.exe
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\bin\Debug\net6.0\DoTheyHaveTheSameLastDigit.deps.json
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\bin\Debug\net6.0\DoTheyHaveTheSameLastDigit.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\bin\Debug\net6.0\DoTheyHaveTheSameLastDigit.dll
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\bin\Debug\net6.0\DoTheyHaveTheSameLastDigit.pdb
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\obj\Debug\net6.0\DoTheyHaveTheSameLastDigit.dll
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\obj\Debug\net6.0\refint\DoTheyHaveTheSameLastDigit.dll
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\obj\Debug\net6.0\DoTheyHaveTheSameLastDigit.pdb
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\obj\Debug\net6.0\DoTheyHaveTheSameLastDigit.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\DoTheyHaveTheSameLastDigit\DoTheyHaveTheSameLastDigit\obj\Debug\net6.0\ref\DoTheyHaveTheSameLastDigit.dll

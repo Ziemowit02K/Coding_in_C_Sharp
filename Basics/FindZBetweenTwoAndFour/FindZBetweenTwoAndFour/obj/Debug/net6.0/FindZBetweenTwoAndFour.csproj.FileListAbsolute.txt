@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\bin\Debug\net6.0\FindZBetweenTwoAndFour.exe
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\bin\Debug\net6.0\FindZBetweenTwoAndFour.deps.json
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\bin\Debug\net6.0\FindZBetweenTwoAndFour.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\bin\Debug\net6.0\FindZBetweenTwoAndFour.dll
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\bin\Debug\net6.0\FindZBetweenTwoAndFour.pdb
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\obj\Debug\net6.0\FindZBetweenTwoAndFour.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\obj\Debug\net6.0\FindZBetweenTwoAndFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\obj\Debug\net6.0\FindZBetweenTwoAndFour.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\obj\Debug\net6.0\FindZBetweenTwoAndFour.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\obj\Debug\net6.0\FindZBetweenTwoAndFour.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\obj\Debug\net6.0\FindZBetweenTwoAndFour.dll
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\obj\Debug\net6.0\refint\FindZBetweenTwoAndFour.dll
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\obj\Debug\net6.0\FindZBetweenTwoAndFour.pdb
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\obj\Debug\net6.0\FindZBetweenTwoAndFour.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\FindZBetweenTwoAndFour\FindZBetweenTwoAndFour\obj\Debug\net6.0\ref\FindZBetweenTwoAndFour.dll
