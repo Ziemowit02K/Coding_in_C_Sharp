@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\bin\Debug\net6.0\WhichNumberNearest100.exe
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\bin\Debug\net6.0\WhichNumberNearest100.deps.json
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\bin\Debug\net6.0\WhichNumberNearest100.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\bin\Debug\net6.0\WhichNumberNearest100.dll
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\bin\Debug\net6.0\WhichNumberNearest100.pdb
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\obj\Debug\net6.0\WhichNumberNearest100.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\obj\Debug\net6.0\WhichNumberNearest100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\obj\Debug\net6.0\WhichNumberNearest100.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\obj\Debug\net6.0\WhichNumberNearest100.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\obj\Debug\net6.0\WhichNumberNearest100.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\obj\Debug\net6.0\WhichNumberNearest100.dll
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\obj\Debug\net6.0\refint\WhichNumberNearest100.dll
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\obj\Debug\net6.0\WhichNumberNearest100.pdb
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\obj\Debug\net6.0\WhichNumberNearest100.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\WhichNumberNearest100\WhichNumberNearest100\obj\Debug\net6.0\ref\WhichNumberNearest100.dll

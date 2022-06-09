@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\bin\Debug\net6.0\UpperCaseInStrings.exe
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\bin\Debug\net6.0\UpperCaseInStrings.deps.json
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\bin\Debug\net6.0\UpperCaseInStrings.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\bin\Debug\net6.0\UpperCaseInStrings.dll
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\bin\Debug\net6.0\UpperCaseInStrings.pdb
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\obj\Debug\net6.0\UpperCaseInStrings.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\obj\Debug\net6.0\UpperCaseInStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\obj\Debug\net6.0\UpperCaseInStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\obj\Debug\net6.0\UpperCaseInStrings.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\obj\Debug\net6.0\UpperCaseInStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\obj\Debug\net6.0\UpperCaseInStrings.dll
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\obj\Debug\net6.0\refint\UpperCaseInStrings.dll
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\obj\Debug\net6.0\UpperCaseInStrings.pdb
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\obj\Debug\net6.0\UpperCaseInStrings.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\UpperCaseInStrings\UpperCaseInStrings\obj\Debug\net6.0\ref\UpperCaseInStrings.dll

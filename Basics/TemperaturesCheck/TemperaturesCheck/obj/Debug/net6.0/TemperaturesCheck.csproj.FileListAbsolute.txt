@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\bin\Debug\net6.0\TemperaturesCheck.exe
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\bin\Debug\net6.0\TemperaturesCheck.deps.json
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\bin\Debug\net6.0\TemperaturesCheck.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\bin\Debug\net6.0\TemperaturesCheck.dll
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\bin\Debug\net6.0\TemperaturesCheck.pdb
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\obj\Debug\net6.0\TemperaturesCheck.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\obj\Debug\net6.0\TemperaturesCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\obj\Debug\net6.0\TemperaturesCheck.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\obj\Debug\net6.0\TemperaturesCheck.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\obj\Debug\net6.0\TemperaturesCheck.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\obj\Debug\net6.0\TemperaturesCheck.dll
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\obj\Debug\net6.0\refint\TemperaturesCheck.dll
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\obj\Debug\net6.0\TemperaturesCheck.pdb
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\obj\Debug\net6.0\TemperaturesCheck.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\TemperaturesCheck\TemperaturesCheck\obj\Debug\net6.0\ref\TemperaturesCheck.dll
