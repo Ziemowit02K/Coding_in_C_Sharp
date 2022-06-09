@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\obj\Debug\net6.0\ThreeFirstLettersCopy.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\obj\Debug\net6.0\ThreeFirstLettersCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\obj\Debug\net6.0\ThreeFirstLettersCopy.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\obj\Debug\net6.0\ThreeFirstLettersCopy.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\obj\Debug\net6.0\ThreeFirstLettersCopy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\bin\Debug\net6.0\ThreeFirstLettersCopy.exe
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\bin\Debug\net6.0\ThreeFirstLettersCopy.deps.json
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\bin\Debug\net6.0\ThreeFirstLettersCopy.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\bin\Debug\net6.0\ThreeFirstLettersCopy.dll
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\bin\Debug\net6.0\ThreeFirstLettersCopy.pdb
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\obj\Debug\net6.0\ThreeFirstLettersCopy.dll
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\obj\Debug\net6.0\refint\ThreeFirstLettersCopy.dll
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\obj\Debug\net6.0\ThreeFirstLettersCopy.pdb
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\obj\Debug\net6.0\ThreeFirstLettersCopy.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\ThreeFirstLettersCopy\ThreeFirstLettersCopy\obj\Debug\net6.0\ref\ThreeFirstLettersCopy.dll
