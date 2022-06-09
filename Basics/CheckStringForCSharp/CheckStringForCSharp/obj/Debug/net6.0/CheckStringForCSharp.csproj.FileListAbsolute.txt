@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\bin\Debug\net6.0\CheckStringForCSharp.exe
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\bin\Debug\net6.0\CheckStringForCSharp.deps.json
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\bin\Debug\net6.0\CheckStringForCSharp.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\bin\Debug\net6.0\CheckStringForCSharp.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\bin\Debug\net6.0\CheckStringForCSharp.pdb
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\obj\Debug\net6.0\CheckStringForCSharp.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\obj\Debug\net6.0\CheckStringForCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\obj\Debug\net6.0\CheckStringForCSharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\obj\Debug\net6.0\CheckStringForCSharp.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\obj\Debug\net6.0\CheckStringForCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\obj\Debug\net6.0\CheckStringForCSharp.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\obj\Debug\net6.0\refint\CheckStringForCSharp.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\obj\Debug\net6.0\CheckStringForCSharp.pdb
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\obj\Debug\net6.0\CheckStringForCSharp.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckStringForCSharp\CheckStringForCSharp\obj\Debug\net6.0\ref\CheckStringForCSharp.dll

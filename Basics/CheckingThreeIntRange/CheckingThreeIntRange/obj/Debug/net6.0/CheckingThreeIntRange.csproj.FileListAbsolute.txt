@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\bin\Debug\net6.0\CheckingThreeIntRange.exe
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\bin\Debug\net6.0\CheckingThreeIntRange.deps.json
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\bin\Debug\net6.0\CheckingThreeIntRange.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\bin\Debug\net6.0\CheckingThreeIntRange.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\bin\Debug\net6.0\CheckingThreeIntRange.pdb
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\obj\Debug\net6.0\CheckingThreeIntRange.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\obj\Debug\net6.0\CheckingThreeIntRange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\obj\Debug\net6.0\CheckingThreeIntRange.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\obj\Debug\net6.0\CheckingThreeIntRange.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\obj\Debug\net6.0\CheckingThreeIntRange.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\obj\Debug\net6.0\CheckingThreeIntRange.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\obj\Debug\net6.0\refint\CheckingThreeIntRange.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\obj\Debug\net6.0\CheckingThreeIntRange.pdb
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\obj\Debug\net6.0\CheckingThreeIntRange.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingThreeIntRange\CheckingThreeIntRange\obj\Debug\net6.0\ref\CheckingThreeIntRange.dll

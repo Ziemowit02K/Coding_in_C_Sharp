@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\bin\Debug\net6.0\CheckingRangeInt.exe
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\bin\Debug\net6.0\CheckingRangeInt.deps.json
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\bin\Debug\net6.0\CheckingRangeInt.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\bin\Debug\net6.0\CheckingRangeInt.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\bin\Debug\net6.0\CheckingRangeInt.pdb
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\obj\Debug\net6.0\CheckingRangeInt.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\obj\Debug\net6.0\CheckingRangeInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\obj\Debug\net6.0\CheckingRangeInt.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\obj\Debug\net6.0\CheckingRangeInt.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\obj\Debug\net6.0\CheckingRangeInt.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\obj\Debug\net6.0\CheckingRangeInt.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\obj\Debug\net6.0\refint\CheckingRangeInt.dll
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\obj\Debug\net6.0\CheckingRangeInt.pdb
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\obj\Debug\net6.0\CheckingRangeInt.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\CheckingRangeInt\CheckingRangeInt\obj\Debug\net6.0\ref\CheckingRangeInt.dll
