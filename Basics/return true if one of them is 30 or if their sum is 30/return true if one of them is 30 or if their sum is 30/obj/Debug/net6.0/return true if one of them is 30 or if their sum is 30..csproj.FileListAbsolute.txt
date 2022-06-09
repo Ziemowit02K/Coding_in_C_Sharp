@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\Coding\Basics\return true if one of them is 30 or if their sum is 30\return true if one of them is 30 or if their sum is 30\obj\Debug\net6.0\return true if one of them is 30 or if their sum is 30..csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\return true if one of them is 30 or if their sum is 30\return true if one of them is 30 or if their sum is 30\obj\Debug\net6.0\return true if one of them is 30 or if their sum is 30..GeneratedMSBuildEditorConfig.editorconfig

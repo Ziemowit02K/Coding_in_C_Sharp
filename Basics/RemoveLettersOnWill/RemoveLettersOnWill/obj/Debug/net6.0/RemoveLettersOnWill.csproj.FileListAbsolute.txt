@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\bin\Debug\net6.0\RemoveLettersOnWill.exe
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\bin\Debug\net6.0\RemoveLettersOnWill.deps.json
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\bin\Debug\net6.0\RemoveLettersOnWill.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\bin\Debug\net6.0\RemoveLettersOnWill.dll
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\bin\Debug\net6.0\RemoveLettersOnWill.pdb
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\obj\Debug\net6.0\RemoveLettersOnWill.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\obj\Debug\net6.0\RemoveLettersOnWill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\obj\Debug\net6.0\RemoveLettersOnWill.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\obj\Debug\net6.0\RemoveLettersOnWill.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\obj\Debug\net6.0\RemoveLettersOnWill.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\obj\Debug\net6.0\RemoveLettersOnWill.dll
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\obj\Debug\net6.0\refint\RemoveLettersOnWill.dll
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\obj\Debug\net6.0\RemoveLettersOnWill.pdb
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\obj\Debug\net6.0\RemoveLettersOnWill.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\RemoveLettersOnWill\RemoveLettersOnWill\obj\Debug\net6.0\ref\RemoveLettersOnWill.dll

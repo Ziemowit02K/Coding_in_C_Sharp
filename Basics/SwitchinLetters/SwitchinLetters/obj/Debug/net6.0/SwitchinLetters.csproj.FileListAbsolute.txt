@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\bin\Debug\net6.0\SwitchinLetters.exe
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\bin\Debug\net6.0\SwitchinLetters.deps.json
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\bin\Debug\net6.0\SwitchinLetters.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\bin\Debug\net6.0\SwitchinLetters.dll
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\bin\Debug\net6.0\SwitchinLetters.pdb
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\obj\Debug\net6.0\SwitchinLetters.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\obj\Debug\net6.0\SwitchinLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\obj\Debug\net6.0\SwitchinLetters.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\obj\Debug\net6.0\SwitchinLetters.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\obj\Debug\net6.0\SwitchinLetters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\obj\Debug\net6.0\SwitchinLetters.dll
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\obj\Debug\net6.0\refint\SwitchinLetters.dll
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\obj\Debug\net6.0\SwitchinLetters.pdb
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\obj\Debug\net6.0\SwitchinLetters.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\SwitchinLetters\SwitchinLetters\obj\Debug\net6.0\ref\SwitchinLetters.dll
