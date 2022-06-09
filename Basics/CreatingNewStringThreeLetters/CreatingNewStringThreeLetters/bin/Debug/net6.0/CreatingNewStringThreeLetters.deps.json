@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CreatingNewStringThreeLetters/1.0.0": {
+        "runtime": {
+          "CreatingNewStringThreeLetters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreatingNewStringThreeLetters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

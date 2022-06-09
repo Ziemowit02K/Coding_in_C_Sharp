@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\obj\Debug\net6.0\DuplicatingLetters.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\obj\Debug\net6.0\DuplicatingLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\obj\Debug\net6.0\DuplicatingLetters.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\obj\Debug\net6.0\DuplicatingLetters.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\obj\Debug\net6.0\DuplicatingLetters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\bin\Debug\net6.0\DuplicatingLetters.exe
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\bin\Debug\net6.0\DuplicatingLetters.deps.json
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\bin\Debug\net6.0\DuplicatingLetters.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\bin\Debug\net6.0\DuplicatingLetters.dll
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\bin\Debug\net6.0\DuplicatingLetters.pdb
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\obj\Debug\net6.0\DuplicatingLetters.dll
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\obj\Debug\net6.0\refint\DuplicatingLetters.dll
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\obj\Debug\net6.0\DuplicatingLetters.pdb
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\obj\Debug\net6.0\DuplicatingLetters.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\DuplicatingLetters\DuplicatingLetters\obj\Debug\net6.0\ref\DuplicatingLetters.dll

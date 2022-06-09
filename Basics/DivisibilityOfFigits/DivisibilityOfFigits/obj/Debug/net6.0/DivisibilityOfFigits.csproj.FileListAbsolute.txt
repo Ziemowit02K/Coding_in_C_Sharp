@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\obj\Debug\net6.0\DivisibilityOfFigits.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\obj\Debug\net6.0\DivisibilityOfFigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\obj\Debug\net6.0\DivisibilityOfFigits.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\obj\Debug\net6.0\DivisibilityOfFigits.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\obj\Debug\net6.0\DivisibilityOfFigits.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\bin\Debug\net6.0\DivisibilityOfFigits.exe
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\bin\Debug\net6.0\DivisibilityOfFigits.deps.json
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\bin\Debug\net6.0\DivisibilityOfFigits.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\bin\Debug\net6.0\DivisibilityOfFigits.dll
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\bin\Debug\net6.0\DivisibilityOfFigits.pdb
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\obj\Debug\net6.0\DivisibilityOfFigits.dll
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\obj\Debug\net6.0\refint\DivisibilityOfFigits.dll
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\obj\Debug\net6.0\DivisibilityOfFigits.pdb
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\obj\Debug\net6.0\DivisibilityOfFigits.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\DivisibilityOfFigits\DivisibilityOfFigits\obj\Debug\net6.0\ref\DivisibilityOfFigits.dll

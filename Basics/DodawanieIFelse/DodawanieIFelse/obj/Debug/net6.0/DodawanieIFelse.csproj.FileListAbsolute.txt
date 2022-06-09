@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\bin\Debug\net6.0\DodawanieIFelse.exe
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\bin\Debug\net6.0\DodawanieIFelse.deps.json
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\bin\Debug\net6.0\DodawanieIFelse.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\bin\Debug\net6.0\DodawanieIFelse.dll
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\bin\Debug\net6.0\DodawanieIFelse.pdb
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\obj\Debug\net6.0\DodawanieIFelse.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\obj\Debug\net6.0\DodawanieIFelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\obj\Debug\net6.0\DodawanieIFelse.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\obj\Debug\net6.0\DodawanieIFelse.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\obj\Debug\net6.0\DodawanieIFelse.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\obj\Debug\net6.0\DodawanieIFelse.dll
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\obj\Debug\net6.0\refint\DodawanieIFelse.dll
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\obj\Debug\net6.0\DodawanieIFelse.pdb
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\obj\Debug\net6.0\DodawanieIFelse.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\DodawanieIFelse\DodawanieIFelse\obj\Debug\net6.0\ref\DodawanieIFelse.dll

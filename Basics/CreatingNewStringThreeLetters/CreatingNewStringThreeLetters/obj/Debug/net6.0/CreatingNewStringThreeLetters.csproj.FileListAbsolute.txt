@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\bin\Debug\net6.0\CreatingNewStringThreeLetters.exe
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\bin\Debug\net6.0\CreatingNewStringThreeLetters.deps.json
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\bin\Debug\net6.0\CreatingNewStringThreeLetters.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\bin\Debug\net6.0\CreatingNewStringThreeLetters.dll
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\bin\Debug\net6.0\CreatingNewStringThreeLetters.pdb
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\obj\Debug\net6.0\CreatingNewStringThreeLetters.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\obj\Debug\net6.0\CreatingNewStringThreeLetters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\obj\Debug\net6.0\CreatingNewStringThreeLetters.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\obj\Debug\net6.0\CreatingNewStringThreeLetters.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\obj\Debug\net6.0\CreatingNewStringThreeLetters.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\obj\Debug\net6.0\CreatingNewStringThreeLetters.dll
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\obj\Debug\net6.0\refint\CreatingNewStringThreeLetters.dll
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\obj\Debug\net6.0\CreatingNewStringThreeLetters.pdb
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\obj\Debug\net6.0\CreatingNewStringThreeLetters.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\Basics\CreatingNewStringThreeLetters\CreatingNewStringThreeLetters\obj\Debug\net6.0\ref\CreatingNewStringThreeLetters.dll
