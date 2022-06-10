@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\bin\Debug\net6.0\CountStringInString.exe
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\bin\Debug\net6.0\CountStringInString.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\bin\Debug\net6.0\CountStringInString.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\bin\Debug\net6.0\CountStringInString.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\bin\Debug\net6.0\CountStringInString.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\obj\Debug\net6.0\CountStringInString.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\obj\Debug\net6.0\CountStringInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\obj\Debug\net6.0\CountStringInString.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\obj\Debug\net6.0\CountStringInString.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\obj\Debug\net6.0\CountStringInString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\obj\Debug\net6.0\CountStringInString.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\obj\Debug\net6.0\refint\CountStringInString.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\obj\Debug\net6.0\CountStringInString.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\obj\Debug\net6.0\CountStringInString.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CountStringInString\CountStringInString\obj\Debug\net6.0\ref\CountStringInString.dll

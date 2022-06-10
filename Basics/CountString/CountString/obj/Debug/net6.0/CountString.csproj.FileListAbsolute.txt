@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\bin\Debug\net6.0\CountString.exe
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\bin\Debug\net6.0\CountString.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\bin\Debug\net6.0\CountString.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\bin\Debug\net6.0\CountString.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\bin\Debug\net6.0\CountString.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\obj\Debug\net6.0\CountString.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\obj\Debug\net6.0\CountString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\obj\Debug\net6.0\CountString.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\obj\Debug\net6.0\CountString.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\obj\Debug\net6.0\CountString.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\obj\Debug\net6.0\CountString.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\obj\Debug\net6.0\refint\CountString.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\obj\Debug\net6.0\CountString.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\obj\Debug\net6.0\CountString.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CountString\CountString\obj\Debug\net6.0\ref\CountString.dll
