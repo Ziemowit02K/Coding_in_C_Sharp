@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\bin\Debug\net6.0\WhatsAfterAnA.exe
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\bin\Debug\net6.0\WhatsAfterAnA.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\bin\Debug\net6.0\WhatsAfterAnA.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\bin\Debug\net6.0\WhatsAfterAnA.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\bin\Debug\net6.0\WhatsAfterAnA.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\obj\Debug\net6.0\WhatsAfterAnA.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\obj\Debug\net6.0\WhatsAfterAnA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\obj\Debug\net6.0\WhatsAfterAnA.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\obj\Debug\net6.0\WhatsAfterAnA.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\obj\Debug\net6.0\WhatsAfterAnA.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\obj\Debug\net6.0\WhatsAfterAnA.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\obj\Debug\net6.0\refint\WhatsAfterAnA.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\obj\Debug\net6.0\WhatsAfterAnA.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\obj\Debug\net6.0\WhatsAfterAnA.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\WhatsAfterAnA\WhatsAfterAnA\obj\Debug\net6.0\ref\WhatsAfterAnA.dll
