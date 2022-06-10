@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\obj\Debug\net6.0\EverySecondCharacter.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\obj\Debug\net6.0\EverySecondCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\obj\Debug\net6.0\EverySecondCharacter.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\obj\Debug\net6.0\EverySecondCharacter.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\obj\Debug\net6.0\EverySecondCharacter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\bin\Debug\net6.0\EverySecondCharacter.exe
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\bin\Debug\net6.0\EverySecondCharacter.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\bin\Debug\net6.0\EverySecondCharacter.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\bin\Debug\net6.0\EverySecondCharacter.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\bin\Debug\net6.0\EverySecondCharacter.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\obj\Debug\net6.0\EverySecondCharacter.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\obj\Debug\net6.0\refint\EverySecondCharacter.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\obj\Debug\net6.0\EverySecondCharacter.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\obj\Debug\net6.0\EverySecondCharacter.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\EverySecondCharacter\EverySecondCharacter\obj\Debug\net6.0\ref\EverySecondCharacter.dll

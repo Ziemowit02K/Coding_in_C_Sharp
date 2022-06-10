@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\bin\Debug\net6.0\CreatingStrings.exe
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\bin\Debug\net6.0\CreatingStrings.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\bin\Debug\net6.0\CreatingStrings.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\bin\Debug\net6.0\CreatingStrings.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\bin\Debug\net6.0\CreatingStrings.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\obj\Debug\net6.0\CreatingStrings.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\obj\Debug\net6.0\CreatingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\obj\Debug\net6.0\CreatingStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\obj\Debug\net6.0\CreatingStrings.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\obj\Debug\net6.0\CreatingStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\obj\Debug\net6.0\CreatingStrings.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\obj\Debug\net6.0\refint\CreatingStrings.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\obj\Debug\net6.0\CreatingStrings.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\obj\Debug\net6.0\CreatingStrings.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\CreatingStrings\CreatingStrings\obj\Debug\net6.0\ref\CreatingStrings.dll
