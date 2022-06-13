@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CreatingNewStringOfIndexes/1.0.0": {
+        "runtime": {
+          "CreatingNewStringOfIndexes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CreatingNewStringOfIndexes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

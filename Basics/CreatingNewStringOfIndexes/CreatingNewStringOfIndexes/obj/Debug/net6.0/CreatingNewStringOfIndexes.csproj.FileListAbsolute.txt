@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\bin\Debug\net6.0\CreatingNewStringOfIndexes.exe
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\bin\Debug\net6.0\CreatingNewStringOfIndexes.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\bin\Debug\net6.0\CreatingNewStringOfIndexes.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\bin\Debug\net6.0\CreatingNewStringOfIndexes.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\bin\Debug\net6.0\CreatingNewStringOfIndexes.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\obj\Debug\net6.0\CreatingNewStringOfIndexes.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\obj\Debug\net6.0\CreatingNewStringOfIndexes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\obj\Debug\net6.0\CreatingNewStringOfIndexes.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\obj\Debug\net6.0\CreatingNewStringOfIndexes.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\obj\Debug\net6.0\CreatingNewStringOfIndexes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\obj\Debug\net6.0\CreatingNewStringOfIndexes.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\obj\Debug\net6.0\refint\CreatingNewStringOfIndexes.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\obj\Debug\net6.0\CreatingNewStringOfIndexes.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\obj\Debug\net6.0\CreatingNewStringOfIndexes.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\CreatingNewStringOfIndexes\CreatingNewStringOfIndexes\obj\Debug\net6.0\ref\CreatingNewStringOfIndexes.dll
