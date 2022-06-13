@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\bin\Debug\net6.0\IsLastNumberTheSame.exe
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\bin\Debug\net6.0\IsLastNumberTheSame.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\bin\Debug\net6.0\IsLastNumberTheSame.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\bin\Debug\net6.0\IsLastNumberTheSame.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\bin\Debug\net6.0\IsLastNumberTheSame.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\obj\Debug\net6.0\IsLastNumberTheSame.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\obj\Debug\net6.0\IsLastNumberTheSame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\obj\Debug\net6.0\IsLastNumberTheSame.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\obj\Debug\net6.0\IsLastNumberTheSame.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\obj\Debug\net6.0\IsLastNumberTheSame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\obj\Debug\net6.0\IsLastNumberTheSame.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\obj\Debug\net6.0\refint\IsLastNumberTheSame.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\obj\Debug\net6.0\IsLastNumberTheSame.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\obj\Debug\net6.0\IsLastNumberTheSame.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\IsLastNumberTheSame\IsLastNumberTheSame\obj\Debug\net6.0\ref\IsLastNumberTheSame.dll

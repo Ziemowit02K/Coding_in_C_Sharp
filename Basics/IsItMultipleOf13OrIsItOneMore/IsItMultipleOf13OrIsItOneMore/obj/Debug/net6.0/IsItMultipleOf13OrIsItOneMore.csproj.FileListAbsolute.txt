@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\bin\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.exe
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\bin\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\bin\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\bin\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\bin\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\obj\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\obj\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\obj\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\obj\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\obj\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\obj\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\obj\Debug\net6.0\refint\IsItMultipleOf13OrIsItOneMore.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\obj\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\obj\Debug\net6.0\IsItMultipleOf13OrIsItOneMore.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\IsItMultipleOf13OrIsItOneMore\IsItMultipleOf13OrIsItOneMore\obj\Debug\net6.0\ref\IsItMultipleOf13OrIsItOneMore.dll

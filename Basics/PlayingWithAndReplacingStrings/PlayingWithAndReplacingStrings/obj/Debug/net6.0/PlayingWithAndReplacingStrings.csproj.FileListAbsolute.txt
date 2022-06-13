@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\obj\Debug\net6.0\PlayingWithAndReplacingStrings.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\obj\Debug\net6.0\PlayingWithAndReplacingStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\obj\Debug\net6.0\PlayingWithAndReplacingStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\obj\Debug\net6.0\PlayingWithAndReplacingStrings.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\obj\Debug\net6.0\PlayingWithAndReplacingStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\bin\Debug\net6.0\PlayingWithAndReplacingStrings.exe
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\bin\Debug\net6.0\PlayingWithAndReplacingStrings.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\bin\Debug\net6.0\PlayingWithAndReplacingStrings.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\bin\Debug\net6.0\PlayingWithAndReplacingStrings.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\bin\Debug\net6.0\PlayingWithAndReplacingStrings.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\obj\Debug\net6.0\PlayingWithAndReplacingStrings.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\obj\Debug\net6.0\refint\PlayingWithAndReplacingStrings.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\obj\Debug\net6.0\PlayingWithAndReplacingStrings.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\obj\Debug\net6.0\PlayingWithAndReplacingStrings.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\PlayingWithAndReplacingStrings\PlayingWithAndReplacingStrings\obj\Debug\net6.0\ref\PlayingWithAndReplacingStrings.dll
