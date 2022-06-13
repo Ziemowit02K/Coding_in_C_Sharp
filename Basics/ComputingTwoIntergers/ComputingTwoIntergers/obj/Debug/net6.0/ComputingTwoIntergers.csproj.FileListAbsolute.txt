@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\bin\Debug\net6.0\ComputingTwoIntergers.exe
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\bin\Debug\net6.0\ComputingTwoIntergers.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\bin\Debug\net6.0\ComputingTwoIntergers.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\bin\Debug\net6.0\ComputingTwoIntergers.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\bin\Debug\net6.0\ComputingTwoIntergers.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\obj\Debug\net6.0\ComputingTwoIntergers.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\obj\Debug\net6.0\ComputingTwoIntergers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\obj\Debug\net6.0\ComputingTwoIntergers.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\obj\Debug\net6.0\ComputingTwoIntergers.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\obj\Debug\net6.0\ComputingTwoIntergers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\obj\Debug\net6.0\ComputingTwoIntergers.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\obj\Debug\net6.0\refint\ComputingTwoIntergers.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\obj\Debug\net6.0\ComputingTwoIntergers.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\obj\Debug\net6.0\ComputingTwoIntergers.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\ComputingTwoIntergers\ComputingTwoIntergers\obj\Debug\net6.0\ref\ComputingTwoIntergers.dll

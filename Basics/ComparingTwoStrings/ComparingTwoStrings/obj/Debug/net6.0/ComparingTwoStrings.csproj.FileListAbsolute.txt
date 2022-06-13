@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\bin\Debug\net6.0\ComparingTwoStrings.exe
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\bin\Debug\net6.0\ComparingTwoStrings.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\bin\Debug\net6.0\ComparingTwoStrings.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\bin\Debug\net6.0\ComparingTwoStrings.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\bin\Debug\net6.0\ComparingTwoStrings.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\obj\Debug\net6.0\ComparingTwoStrings.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\obj\Debug\net6.0\ComparingTwoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\obj\Debug\net6.0\ComparingTwoStrings.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\obj\Debug\net6.0\ComparingTwoStrings.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\obj\Debug\net6.0\ComparingTwoStrings.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\obj\Debug\net6.0\ComparingTwoStrings.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\obj\Debug\net6.0\refint\ComparingTwoStrings.dll
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\obj\Debug\net6.0\ComparingTwoStrings.pdb
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\obj\Debug\net6.0\ComparingTwoStrings.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD2\ComparingTwoStrings\ComparingTwoStrings\obj\Debug\net6.0\ref\ComparingTwoStrings.dll
