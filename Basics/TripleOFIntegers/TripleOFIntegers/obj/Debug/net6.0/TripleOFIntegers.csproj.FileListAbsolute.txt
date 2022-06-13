@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\bin\Debug\net6.0\TripleOFIntegers.exe
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\bin\Debug\net6.0\TripleOFIntegers.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\bin\Debug\net6.0\TripleOFIntegers.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\bin\Debug\net6.0\TripleOFIntegers.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\bin\Debug\net6.0\TripleOFIntegers.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\obj\Debug\net6.0\TripleOFIntegers.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\obj\Debug\net6.0\TripleOFIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\obj\Debug\net6.0\TripleOFIntegers.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\obj\Debug\net6.0\TripleOFIntegers.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\obj\Debug\net6.0\TripleOFIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\obj\Debug\net6.0\TripleOFIntegers.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\obj\Debug\net6.0\refint\TripleOFIntegers.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\obj\Debug\net6.0\TripleOFIntegers.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\obj\Debug\net6.0\TripleOFIntegers.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\TripleOFIntegers\TripleOFIntegers\obj\Debug\net6.0\ref\TripleOFIntegers.dll
