@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\obj\Debug\net6.0\Calculating.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\obj\Debug\net6.0\Calculating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\obj\Debug\net6.0\Calculating.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\obj\Debug\net6.0\Calculating.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\obj\Debug\net6.0\Calculating.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\bin\Debug\net6.0\Calculating.exe
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\bin\Debug\net6.0\Calculating.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\bin\Debug\net6.0\Calculating.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\bin\Debug\net6.0\Calculating.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\bin\Debug\net6.0\Calculating.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\obj\Debug\net6.0\Calculating.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\obj\Debug\net6.0\refint\Calculating.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\obj\Debug\net6.0\Calculating.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\obj\Debug\net6.0\Calculating.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\Calculating\Calculating\obj\Debug\net6.0\ref\Calculating.dll

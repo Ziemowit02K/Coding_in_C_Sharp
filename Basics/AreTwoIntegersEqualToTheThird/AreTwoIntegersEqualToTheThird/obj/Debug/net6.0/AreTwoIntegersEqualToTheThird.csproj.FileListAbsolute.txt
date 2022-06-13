@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\bin\Debug\net6.0\AreTwoIntegersEqualToTheThird.exe
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\bin\Debug\net6.0\AreTwoIntegersEqualToTheThird.deps.json
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\bin\Debug\net6.0\AreTwoIntegersEqualToTheThird.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\bin\Debug\net6.0\AreTwoIntegersEqualToTheThird.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\bin\Debug\net6.0\AreTwoIntegersEqualToTheThird.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\obj\Debug\net6.0\AreTwoIntegersEqualToTheThird.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\obj\Debug\net6.0\AreTwoIntegersEqualToTheThird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\obj\Debug\net6.0\AreTwoIntegersEqualToTheThird.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\obj\Debug\net6.0\AreTwoIntegersEqualToTheThird.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\obj\Debug\net6.0\AreTwoIntegersEqualToTheThird.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\obj\Debug\net6.0\AreTwoIntegersEqualToTheThird.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\obj\Debug\net6.0\refint\AreTwoIntegersEqualToTheThird.dll
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\obj\Debug\net6.0\AreTwoIntegersEqualToTheThird.pdb
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\obj\Debug\net6.0\AreTwoIntegersEqualToTheThird.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\BasicsD3\AreTwoIntegersEqualToTheThird\AreTwoIntegersEqualToTheThird\obj\Debug\net6.0\ref\AreTwoIntegersEqualToTheThird.dll
