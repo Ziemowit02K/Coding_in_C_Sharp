@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\bin\Debug\net6.0\DecimalToBinary.exe
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\bin\Debug\net6.0\DecimalToBinary.deps.json
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\bin\Debug\net6.0\DecimalToBinary.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\bin\Debug\net6.0\DecimalToBinary.dll
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\bin\Debug\net6.0\DecimalToBinary.pdb
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.dll
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\obj\Debug\net6.0\refint\DecimalToBinary.dll
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.pdb
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\obj\Debug\net6.0\DecimalToBinary.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\DecimalToBinary\DecimalToBinary\obj\Debug\net6.0\ref\DecimalToBinary.dll
