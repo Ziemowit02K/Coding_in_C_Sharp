@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\obj\Debug\net6.0\BothNumbersEvenOrOdd.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\obj\Debug\net6.0\BothNumbersEvenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\obj\Debug\net6.0\BothNumbersEvenOrOdd.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\obj\Debug\net6.0\BothNumbersEvenOrOdd.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\obj\Debug\net6.0\BothNumbersEvenOrOdd.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\bin\Debug\net6.0\BothNumbersEvenOrOdd.exe
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\bin\Debug\net6.0\BothNumbersEvenOrOdd.deps.json
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\bin\Debug\net6.0\BothNumbersEvenOrOdd.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\bin\Debug\net6.0\BothNumbersEvenOrOdd.dll
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\bin\Debug\net6.0\BothNumbersEvenOrOdd.pdb
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\obj\Debug\net6.0\BothNumbersEvenOrOdd.dll
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\obj\Debug\net6.0\refint\BothNumbersEvenOrOdd.dll
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\obj\Debug\net6.0\BothNumbersEvenOrOdd.pdb
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\obj\Debug\net6.0\BothNumbersEvenOrOdd.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\DataTypesExercisesD1\BothNumbersEvenOrOdd\BothNumbersEvenOrOdd\obj\Debug\net6.0\ref\BothNumbersEvenOrOdd.dll
