@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\bin\Debug\net6.0\MultiplicationTableFrom1ToN.exe
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\bin\Debug\net6.0\MultiplicationTableFrom1ToN.deps.json
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\bin\Debug\net6.0\MultiplicationTableFrom1ToN.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\bin\Debug\net6.0\MultiplicationTableFrom1ToN.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\bin\Debug\net6.0\MultiplicationTableFrom1ToN.pdb
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\obj\Debug\net6.0\MultiplicationTableFrom1ToN.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\obj\Debug\net6.0\MultiplicationTableFrom1ToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\obj\Debug\net6.0\MultiplicationTableFrom1ToN.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\obj\Debug\net6.0\MultiplicationTableFrom1ToN.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\obj\Debug\net6.0\MultiplicationTableFrom1ToN.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\obj\Debug\net6.0\MultiplicationTableFrom1ToN.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\obj\Debug\net6.0\refint\MultiplicationTableFrom1ToN.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\obj\Debug\net6.0\MultiplicationTableFrom1ToN.pdb
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\obj\Debug\net6.0\MultiplicationTableFrom1ToN.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\MultiplicationTableFrom1ToN\MultiplicationTableFrom1ToN\obj\Debug\net6.0\ref\MultiplicationTableFrom1ToN.dll

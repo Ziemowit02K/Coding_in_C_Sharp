@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\bin\Debug\net6.0\Read10NumbersSumAndAverage.exe
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\bin\Debug\net6.0\Read10NumbersSumAndAverage.deps.json
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\bin\Debug\net6.0\Read10NumbersSumAndAverage.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\bin\Debug\net6.0\Read10NumbersSumAndAverage.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\bin\Debug\net6.0\Read10NumbersSumAndAverage.pdb
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\obj\Debug\net6.0\Read10NumbersSumAndAverage.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\obj\Debug\net6.0\Read10NumbersSumAndAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\obj\Debug\net6.0\Read10NumbersSumAndAverage.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\obj\Debug\net6.0\Read10NumbersSumAndAverage.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\obj\Debug\net6.0\Read10NumbersSumAndAverage.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\obj\Debug\net6.0\Read10NumbersSumAndAverage.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\obj\Debug\net6.0\refint\Read10NumbersSumAndAverage.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\obj\Debug\net6.0\Read10NumbersSumAndAverage.pdb
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\obj\Debug\net6.0\Read10NumbersSumAndAverage.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\Read10NumbersSumAndAverage\Read10NumbersSumAndAverage\obj\Debug\net6.0\ref\Read10NumbersSumAndAverage.dll
