@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\bin\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.exe
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\bin\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.deps.json
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\bin\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\bin\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\bin\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.pdb
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\obj\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\obj\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\obj\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\obj\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\obj\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\obj\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\obj\Debug\net6.0\refint\DisplayNTermsOfOddsAndTheirSum.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\obj\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.pdb
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\obj\Debug\net6.0\DisplayNTermsOfOddsAndTheirSum.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\DisplayNTermsOfOddsAndTheirSum\DisplayNTermsOfOddsAndTheirSum\obj\Debug\net6.0\ref\DisplayNTermsOfOddsAndTheirSum.dll

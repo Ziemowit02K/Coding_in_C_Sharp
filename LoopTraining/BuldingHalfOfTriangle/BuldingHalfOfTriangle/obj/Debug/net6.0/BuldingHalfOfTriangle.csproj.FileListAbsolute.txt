@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\bin\Debug\net6.0\BuldingHalfOfTriangle.exe
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\bin\Debug\net6.0\BuldingHalfOfTriangle.deps.json
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\bin\Debug\net6.0\BuldingHalfOfTriangle.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\bin\Debug\net6.0\BuldingHalfOfTriangle.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\bin\Debug\net6.0\BuldingHalfOfTriangle.pdb
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\obj\Debug\net6.0\BuldingHalfOfTriangle.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\obj\Debug\net6.0\BuldingHalfOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\obj\Debug\net6.0\BuldingHalfOfTriangle.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\obj\Debug\net6.0\BuldingHalfOfTriangle.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\obj\Debug\net6.0\BuldingHalfOfTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\obj\Debug\net6.0\BuldingHalfOfTriangle.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\obj\Debug\net6.0\refint\BuldingHalfOfTriangle.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\obj\Debug\net6.0\BuldingHalfOfTriangle.pdb
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\obj\Debug\net6.0\BuldingHalfOfTriangle.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\BuldingHalfOfTriangle\BuldingHalfOfTriangle\obj\Debug\net6.0\ref\BuldingHalfOfTriangle.dll
