@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\bin\Debug\net6.0\FloydsTriangle.exe
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\bin\Debug\net6.0\FloydsTriangle.deps.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\bin\Debug\net6.0\FloydsTriangle.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\bin\Debug\net6.0\FloydsTriangle.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\bin\Debug\net6.0\FloydsTriangle.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\obj\Debug\net6.0\FloydsTriangle.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\obj\Debug\net6.0\FloydsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\obj\Debug\net6.0\FloydsTriangle.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\obj\Debug\net6.0\FloydsTriangle.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\obj\Debug\net6.0\FloydsTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\obj\Debug\net6.0\FloydsTriangle.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\obj\Debug\net6.0\refint\FloydsTriangle.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\obj\Debug\net6.0\FloydsTriangle.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\obj\Debug\net6.0\FloydsTriangle.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\FloydsTriangle\FloydsTriangle\obj\Debug\net6.0\ref\FloydsTriangle.dll
