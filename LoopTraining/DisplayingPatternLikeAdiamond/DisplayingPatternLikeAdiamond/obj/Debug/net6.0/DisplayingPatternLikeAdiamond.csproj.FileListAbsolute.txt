@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\bin\Debug\net6.0\DisplayingPatternLikeAdiamond.exe
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\bin\Debug\net6.0\DisplayingPatternLikeAdiamond.deps.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\bin\Debug\net6.0\DisplayingPatternLikeAdiamond.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\bin\Debug\net6.0\DisplayingPatternLikeAdiamond.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\bin\Debug\net6.0\DisplayingPatternLikeAdiamond.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\obj\Debug\net6.0\DisplayingPatternLikeAdiamond.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\obj\Debug\net6.0\DisplayingPatternLikeAdiamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\obj\Debug\net6.0\DisplayingPatternLikeAdiamond.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\obj\Debug\net6.0\DisplayingPatternLikeAdiamond.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\obj\Debug\net6.0\DisplayingPatternLikeAdiamond.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\obj\Debug\net6.0\DisplayingPatternLikeAdiamond.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\obj\Debug\net6.0\refint\DisplayingPatternLikeAdiamond.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\obj\Debug\net6.0\DisplayingPatternLikeAdiamond.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\obj\Debug\net6.0\DisplayingPatternLikeAdiamond.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\DisplayingPatternLikeAdiamond\DisplayingPatternLikeAdiamond\obj\Debug\net6.0\ref\DisplayingPatternLikeAdiamond.dll

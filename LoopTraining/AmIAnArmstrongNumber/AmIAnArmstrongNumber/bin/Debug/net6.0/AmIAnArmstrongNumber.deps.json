@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AmIAnArmstrongNumber/1.0.0": {
+        "runtime": {
+          "AmIAnArmstrongNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AmIAnArmstrongNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

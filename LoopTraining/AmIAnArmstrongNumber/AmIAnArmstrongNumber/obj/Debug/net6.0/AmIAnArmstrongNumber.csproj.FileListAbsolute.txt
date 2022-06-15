@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\obj\Debug\net6.0\AmIAnArmstrongNumber.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\obj\Debug\net6.0\AmIAnArmstrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\obj\Debug\net6.0\AmIAnArmstrongNumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\obj\Debug\net6.0\AmIAnArmstrongNumber.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\obj\Debug\net6.0\AmIAnArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\bin\Debug\net6.0\AmIAnArmstrongNumber.exe
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\bin\Debug\net6.0\AmIAnArmstrongNumber.deps.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\bin\Debug\net6.0\AmIAnArmstrongNumber.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\bin\Debug\net6.0\AmIAnArmstrongNumber.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\bin\Debug\net6.0\AmIAnArmstrongNumber.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\obj\Debug\net6.0\AmIAnArmstrongNumber.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\obj\Debug\net6.0\refint\AmIAnArmstrongNumber.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\obj\Debug\net6.0\AmIAnArmstrongNumber.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\obj\Debug\net6.0\AmIAnArmstrongNumber.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\AmIAnArmstrongNumber\AmIAnArmstrongNumber\obj\Debug\net6.0\ref\AmIAnArmstrongNumber.dll
