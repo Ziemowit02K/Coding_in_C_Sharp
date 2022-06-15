@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\bin\Debug\net6.0\IsGivenNumberAPrimeOrNot.exe
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\bin\Debug\net6.0\IsGivenNumberAPrimeOrNot.deps.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\bin\Debug\net6.0\IsGivenNumberAPrimeOrNot.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\bin\Debug\net6.0\IsGivenNumberAPrimeOrNot.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\bin\Debug\net6.0\IsGivenNumberAPrimeOrNot.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\obj\Debug\net6.0\IsGivenNumberAPrimeOrNot.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\obj\Debug\net6.0\IsGivenNumberAPrimeOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\obj\Debug\net6.0\IsGivenNumberAPrimeOrNot.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\obj\Debug\net6.0\IsGivenNumberAPrimeOrNot.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\obj\Debug\net6.0\IsGivenNumberAPrimeOrNot.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\obj\Debug\net6.0\IsGivenNumberAPrimeOrNot.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\obj\Debug\net6.0\refint\IsGivenNumberAPrimeOrNot.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\obj\Debug\net6.0\IsGivenNumberAPrimeOrNot.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\obj\Debug\net6.0\IsGivenNumberAPrimeOrNot.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\IsGivenNumberAPrimeOrNot\IsGivenNumberAPrimeOrNot\obj\Debug\net6.0\ref\IsGivenNumberAPrimeOrNot.dll

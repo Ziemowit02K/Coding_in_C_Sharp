@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\bin\Debug\net6.0\DisplayPascalsTriangle.exe
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\bin\Debug\net6.0\DisplayPascalsTriangle.deps.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\bin\Debug\net6.0\DisplayPascalsTriangle.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\bin\Debug\net6.0\DisplayPascalsTriangle.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\bin\Debug\net6.0\DisplayPascalsTriangle.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\obj\Debug\net6.0\DisplayPascalsTriangle.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\obj\Debug\net6.0\DisplayPascalsTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\obj\Debug\net6.0\DisplayPascalsTriangle.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\obj\Debug\net6.0\DisplayPascalsTriangle.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\obj\Debug\net6.0\DisplayPascalsTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\obj\Debug\net6.0\DisplayPascalsTriangle.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\obj\Debug\net6.0\refint\DisplayPascalsTriangle.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\obj\Debug\net6.0\DisplayPascalsTriangle.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\obj\Debug\net6.0\DisplayPascalsTriangle.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART3\DisplayPascalsTriangle\DisplayPascalsTriangle\obj\Debug\net6.0\ref\DisplayPascalsTriangle.dll
