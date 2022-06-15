@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\bin\Debug\net6.0\TriangleWithANumber.exe
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\bin\Debug\net6.0\TriangleWithANumber.deps.json
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\bin\Debug\net6.0\TriangleWithANumber.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\bin\Debug\net6.0\TriangleWithANumber.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\bin\Debug\net6.0\TriangleWithANumber.pdb
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\obj\Debug\net6.0\TriangleWithANumber.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\obj\Debug\net6.0\TriangleWithANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\obj\Debug\net6.0\TriangleWithANumber.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\obj\Debug\net6.0\TriangleWithANumber.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\obj\Debug\net6.0\TriangleWithANumber.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\obj\Debug\net6.0\TriangleWithANumber.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\obj\Debug\net6.0\refint\TriangleWithANumber.dll
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\obj\Debug\net6.0\TriangleWithANumber.pdb
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\obj\Debug\net6.0\TriangleWithANumber.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\SharpForLoop\TriangleWithANumber\TriangleWithANumber\obj\Debug\net6.0\ref\TriangleWithANumber.dll
