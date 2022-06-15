@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\bin\Debug\net6.0\TriangleTheSameNumberInARow.exe
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\bin\Debug\net6.0\TriangleTheSameNumberInARow.deps.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\bin\Debug\net6.0\TriangleTheSameNumberInARow.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\bin\Debug\net6.0\TriangleTheSameNumberInARow.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\bin\Debug\net6.0\TriangleTheSameNumberInARow.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\obj\Debug\net6.0\TriangleTheSameNumberInARow.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\obj\Debug\net6.0\TriangleTheSameNumberInARow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\obj\Debug\net6.0\TriangleTheSameNumberInARow.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\obj\Debug\net6.0\TriangleTheSameNumberInARow.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\obj\Debug\net6.0\TriangleTheSameNumberInARow.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\obj\Debug\net6.0\TriangleTheSameNumberInARow.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\obj\Debug\net6.0\refint\TriangleTheSameNumberInARow.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\obj\Debug\net6.0\TriangleTheSameNumberInARow.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\obj\Debug\net6.0\TriangleTheSameNumberInARow.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\TriangleTheSameNumberInARow\TriangleTheSameNumberInARow\obj\Debug\net6.0\ref\TriangleTheSameNumberInARow.dll
