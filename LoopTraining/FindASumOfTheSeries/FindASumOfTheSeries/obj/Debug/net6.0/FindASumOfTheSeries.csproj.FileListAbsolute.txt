@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\bin\Debug\net6.0\FindASumOfTheSeries.exe
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\bin\Debug\net6.0\FindASumOfTheSeries.deps.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\bin\Debug\net6.0\FindASumOfTheSeries.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\bin\Debug\net6.0\FindASumOfTheSeries.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\bin\Debug\net6.0\FindASumOfTheSeries.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\obj\Debug\net6.0\FindASumOfTheSeries.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\obj\Debug\net6.0\FindASumOfTheSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\obj\Debug\net6.0\FindASumOfTheSeries.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\obj\Debug\net6.0\FindASumOfTheSeries.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\obj\Debug\net6.0\FindASumOfTheSeries.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\obj\Debug\net6.0\FindASumOfTheSeries.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\obj\Debug\net6.0\refint\FindASumOfTheSeries.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\obj\Debug\net6.0\FindASumOfTheSeries.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\obj\Debug\net6.0\FindASumOfTheSeries.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\FindASumOfTheSeries\FindASumOfTheSeries\obj\Debug\net6.0\ref\FindASumOfTheSeries.dll

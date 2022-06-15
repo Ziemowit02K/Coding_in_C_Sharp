@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindASumOfTheSeries", "FindASumOfTheSeries\FindASumOfTheSeries.csproj", "{F4DE5546-F70A-4EEF-A91A-8765C07A3112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4DE5546-F70A-4EEF-A91A-8765C07A3112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DE5546-F70A-4EEF-A91A-8765C07A3112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DE5546-F70A-4EEF-A91A-8765C07A3112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DE5546-F70A-4EEF-A91A-8765C07A3112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD5354AD-CDAE-445D-966C-97665DF10736}
+	EndGlobalSection
+EndGlobal

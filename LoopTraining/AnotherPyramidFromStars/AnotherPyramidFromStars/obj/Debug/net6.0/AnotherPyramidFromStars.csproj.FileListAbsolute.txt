@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\bin\Debug\net6.0\AnotherPyramidFromStars.exe
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\bin\Debug\net6.0\AnotherPyramidFromStars.deps.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\bin\Debug\net6.0\AnotherPyramidFromStars.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\bin\Debug\net6.0\AnotherPyramidFromStars.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\bin\Debug\net6.0\AnotherPyramidFromStars.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\obj\Debug\net6.0\AnotherPyramidFromStars.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\obj\Debug\net6.0\AnotherPyramidFromStars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\obj\Debug\net6.0\AnotherPyramidFromStars.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\obj\Debug\net6.0\AnotherPyramidFromStars.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\obj\Debug\net6.0\AnotherPyramidFromStars.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\obj\Debug\net6.0\AnotherPyramidFromStars.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\obj\Debug\net6.0\refint\AnotherPyramidFromStars.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\obj\Debug\net6.0\AnotherPyramidFromStars.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\obj\Debug\net6.0\AnotherPyramidFromStars.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\AnotherPyramidFromStars\AnotherPyramidFromStars\obj\Debug\net6.0\ref\AnotherPyramidFromStars.dll
