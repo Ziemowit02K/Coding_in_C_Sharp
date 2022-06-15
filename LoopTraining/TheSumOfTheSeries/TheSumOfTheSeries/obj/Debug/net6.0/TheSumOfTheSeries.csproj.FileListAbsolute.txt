@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\bin\Debug\net6.0\TheSumOfTheSeries.exe
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\bin\Debug\net6.0\TheSumOfTheSeries.deps.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\bin\Debug\net6.0\TheSumOfTheSeries.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\bin\Debug\net6.0\TheSumOfTheSeries.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\bin\Debug\net6.0\TheSumOfTheSeries.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\obj\Debug\net6.0\TheSumOfTheSeries.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\obj\Debug\net6.0\TheSumOfTheSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\obj\Debug\net6.0\TheSumOfTheSeries.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\obj\Debug\net6.0\TheSumOfTheSeries.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\obj\Debug\net6.0\TheSumOfTheSeries.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\obj\Debug\net6.0\TheSumOfTheSeries.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\obj\Debug\net6.0\refint\TheSumOfTheSeries.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\obj\Debug\net6.0\TheSumOfTheSeries.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\obj\Debug\net6.0\TheSumOfTheSeries.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD2\PART2\TheSumOfTheSeries\TheSumOfTheSeries\obj\Debug\net6.0\ref\TheSumOfTheSeries.dll
