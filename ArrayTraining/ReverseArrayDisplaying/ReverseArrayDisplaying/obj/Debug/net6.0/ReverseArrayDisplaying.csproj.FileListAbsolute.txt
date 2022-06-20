@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\bin\Debug\net6.0\ReverseArrayDisplaying.exe
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\bin\Debug\net6.0\ReverseArrayDisplaying.deps.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\bin\Debug\net6.0\ReverseArrayDisplaying.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\bin\Debug\net6.0\ReverseArrayDisplaying.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\bin\Debug\net6.0\ReverseArrayDisplaying.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\obj\Debug\net6.0\ReverseArrayDisplaying.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\obj\Debug\net6.0\ReverseArrayDisplaying.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\obj\Debug\net6.0\ReverseArrayDisplaying.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\obj\Debug\net6.0\ReverseArrayDisplaying.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\obj\Debug\net6.0\ReverseArrayDisplaying.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\obj\Debug\net6.0\ReverseArrayDisplaying.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\obj\Debug\net6.0\refint\ReverseArrayDisplaying.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\obj\Debug\net6.0\ReverseArrayDisplaying.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\obj\Debug\net6.0\ReverseArrayDisplaying.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\ReverseArrayDisplaying\ReverseArrayDisplaying\obj\Debug\net6.0\ref\ReverseArrayDisplaying.dll

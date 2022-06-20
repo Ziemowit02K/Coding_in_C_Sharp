@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\bin\Debug\net6.0\StoreArraysThenPrintThem.exe
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\bin\Debug\net6.0\StoreArraysThenPrintThem.deps.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\bin\Debug\net6.0\StoreArraysThenPrintThem.runtimeconfig.json
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\bin\Debug\net6.0\StoreArraysThenPrintThem.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\bin\Debug\net6.0\StoreArraysThenPrintThem.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\obj\Debug\net6.0\StoreArraysThenPrintThem.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\obj\Debug\net6.0\StoreArraysThenPrintThem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\obj\Debug\net6.0\StoreArraysThenPrintThem.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\obj\Debug\net6.0\StoreArraysThenPrintThem.AssemblyInfo.cs
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\obj\Debug\net6.0\StoreArraysThenPrintThem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\obj\Debug\net6.0\StoreArraysThenPrintThem.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\obj\Debug\net6.0\refint\StoreArraysThenPrintThem.dll
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\obj\Debug\net6.0\StoreArraysThenPrintThem.pdb
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\obj\Debug\net6.0\StoreArraysThenPrintThem.genruntimeconfig.cache
+C:\Users\Admin\Documents\Coding\LoopTrainingD3\StoreArraysThenPrintThem\StoreArraysThenPrintThem\obj\Debug\net6.0\ref\StoreArraysThenPrintThem.dll
