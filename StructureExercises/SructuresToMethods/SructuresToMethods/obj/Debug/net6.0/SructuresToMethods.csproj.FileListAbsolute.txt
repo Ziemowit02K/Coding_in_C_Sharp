@@ -1,0 +1,15 @@
+D:\Coding\SructuresToMethods\SructuresToMethods\bin\Debug\net6.0\SructuresToMethods.exe
+D:\Coding\SructuresToMethods\SructuresToMethods\bin\Debug\net6.0\SructuresToMethods.deps.json
+D:\Coding\SructuresToMethods\SructuresToMethods\bin\Debug\net6.0\SructuresToMethods.runtimeconfig.json
+D:\Coding\SructuresToMethods\SructuresToMethods\bin\Debug\net6.0\SructuresToMethods.dll
+D:\Coding\SructuresToMethods\SructuresToMethods\bin\Debug\net6.0\SructuresToMethods.pdb
+D:\Coding\SructuresToMethods\SructuresToMethods\obj\Debug\net6.0\SructuresToMethods.csproj.AssemblyReference.cache
+D:\Coding\SructuresToMethods\SructuresToMethods\obj\Debug\net6.0\SructuresToMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SructuresToMethods\SructuresToMethods\obj\Debug\net6.0\SructuresToMethods.AssemblyInfoInputs.cache
+D:\Coding\SructuresToMethods\SructuresToMethods\obj\Debug\net6.0\SructuresToMethods.AssemblyInfo.cs
+D:\Coding\SructuresToMethods\SructuresToMethods\obj\Debug\net6.0\SructuresToMethods.csproj.CoreCompileInputs.cache
+D:\Coding\SructuresToMethods\SructuresToMethods\obj\Debug\net6.0\SructuresToMethods.dll
+D:\Coding\SructuresToMethods\SructuresToMethods\obj\Debug\net6.0\refint\SructuresToMethods.dll
+D:\Coding\SructuresToMethods\SructuresToMethods\obj\Debug\net6.0\SructuresToMethods.pdb
+D:\Coding\SructuresToMethods\SructuresToMethods\obj\Debug\net6.0\SructuresToMethods.genruntimeconfig.cache
+D:\Coding\SructuresToMethods\SructuresToMethods\obj\Debug\net6.0\ref\SructuresToMethods.dll

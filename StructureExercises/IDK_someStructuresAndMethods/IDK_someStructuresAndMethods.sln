@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDK_someStructuresAndMethods", "IDK_someStructuresAndMethods\IDK_someStructuresAndMethods.csproj", "{F9EEE941-69EC-47B5-A5EA-98F8072FD43A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9EEE941-69EC-47B5-A5EA-98F8072FD43A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9EEE941-69EC-47B5-A5EA-98F8072FD43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9EEE941-69EC-47B5-A5EA-98F8072FD43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9EEE941-69EC-47B5-A5EA-98F8072FD43A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCCA7B54-F4E7-41EC-8567-C8E7B09C07A5}
+	EndGlobalSection
+EndGlobal
